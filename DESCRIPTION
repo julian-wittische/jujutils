@@ -1,0 +1,12 @@
+Package: jujutils
+Title: Miscellaneous Utility Functions
+Version: 0.0.0.9000
+Authors@R: 
+    person("Julian", "WITTISCHE", , "julian.wittische@mnhn.lu", role = c("aut", "cre"))
+Description: A collection of reusable functions for
+    data manipulation, statistics, spatial analysis
+    and ecological research.
+License: GPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+Config/roxygen2/version: 8.1.1
